@@ -1,7 +1,6 @@
 /*Challenge: Book list database
 Create a table to store a list of books. It should have columns for id, name, and rating. 
 Add three of your favorite books into the table.
-Answer */
 
 CREATE TABLE book_list (id INTEGER PRIMARY KEY, name TEXT, rating INTEGER);
 
