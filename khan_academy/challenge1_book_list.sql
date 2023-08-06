@@ -7,3 +7,4 @@ CREATE TABLE book_list (id INTEGER PRIMARY KEY, name TEXT, rating INTEGER);
 INSERT INTO book_list VALUES (1, 'practice_sql', 9);
 INSERT INTO book_list VALUES (2, 'python_for_dummies', 9);
 INSERT INTO book_list VALUES (3, 'python_fundamentals', 7);
+
